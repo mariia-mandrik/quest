@@ -10,14 +10,3 @@ end
 
 puts n
 
-
-f = 1
-sum = 2
-while sum < 4000000
-	f = sum
-	sum += f
-	puts sum
-end
-
-puts "Fibonachi " 
-puts sum
